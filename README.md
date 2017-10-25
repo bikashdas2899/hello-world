@@ -1,5 +1,4 @@
 # hello-world
-I've no idea what i m doing right now
+Hey there! My name is Bikash Das and i am from India. I am a first year student in Bachelor of Engineering in one oc the most prestigious colleges in North-east India. 
+I know a bit of C++ and nothing else though i would like to learn new languages in my near future (only if i survive till that time).
 
-
-Hey fellas! My name is Stewart (let's say, doesn't really matters what my real name is right?). So me here is completely new to this open-source contribution thing and m really really confused where and how to start.
